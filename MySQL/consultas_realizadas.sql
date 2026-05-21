@@ -76,7 +76,7 @@ SELECT p.id_piscina,
 FROM Piscina p
 INNER JOIN Lote_Animal l
 ON p.id_piscina = l.id_piscina
-WHERE p.ubicacion = 'Rumeyaca';
+WHERE p.ubicacion = 'Rumeya';
 
 /*
 -- Consulta 5:
