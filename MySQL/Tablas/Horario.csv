@@ -1,0 +1,7 @@
+id_horario,hora,detalle
+H001,06:00:00,Alimentacion matutina
+H002,09:00:00,Revision general
+H003,12:00:00,Alimentacion mediodia
+H004,15:00:00,Control sanitario
+H005,18:00:00,Alimentacion vespertina
+H006,20:00:00,Inspeccion nocturna

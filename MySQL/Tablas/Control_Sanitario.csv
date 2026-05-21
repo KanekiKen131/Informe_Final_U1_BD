@@ -1,0 +1,7 @@
+id_control,id_lote,id_enfermedad,fecha,observacion
+CS001,L001,E001,2025-02-02,Sin novedades
+CS002,L002,E002,2025-02-06,Presencia leve de sintomas
+CS003,L003,E003,2025-02-21,Control preventivo realizado
+CS004,L004,E004,2025-03-02,Aplicacion de tratamiento
+CS005,L005,E005,2025-03-16,Estado estable
+CS006,L006,E006,2025-03-26,Monitoreo continuo

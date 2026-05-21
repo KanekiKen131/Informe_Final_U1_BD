@@ -1,0 +1,7 @@
+id_alimentacion,id_lote,id_horario,tipo_alimento,cantidad,fecha
+A001,L001,H001,Iniciadores,120.00,2025-02-01
+A002,L002,H003,Pre Engorde,95.00,2025-08-05
+A003,L003,H005,Engorde,150.00,2025-06-20
+A004,L004,H001,Salud,70.00,2025-01-01
+A005,L005,H003,Engorde,110.00,2024-03-15
+A006,L006,H005,Pre Engorde,180.00,2025-05-25

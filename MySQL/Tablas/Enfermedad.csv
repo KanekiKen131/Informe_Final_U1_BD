@@ -1,0 +1,7 @@
+id_enfermedad,id_control,nombre,descripcion,estado
+E001,CS001,Sindrome de la Mancha Blanca,Virus altamente contagioso,Controlada
+E002,CS002,Necrosis Hepatopancreatica,Afecta el sistema digestivo,En tratamiento
+E003,CS003,Vibriosis,Infeccion bacteriana comun en camarones,Estable
+E004,CS004,Micosis,Infeccion producida por hongos,Controlada
+E005,CS005,Protozoarios,Presencia de parasitos microscopicos,En observacion
+E006,CS006,EMS,Sindorme de Mortalidad Temprana,Recuperacion
